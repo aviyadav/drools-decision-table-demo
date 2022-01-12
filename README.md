@@ -3,7 +3,7 @@
 ### resolve dependency
 - mvn dependency:resolve
 
-run
+### run
 - mvn spring-boot:run
 
 ### Test
